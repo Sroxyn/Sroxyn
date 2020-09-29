@@ -6,7 +6,8 @@
   <a href="https://www.youtube.com/channel/UCyo7IiN1hANaCNzlSqzxk1A" target"blank_"><img src="https://img.shields.io/badge/SroxynArtz%20-ff0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
   <a href="https://www.instagram.com/mustafakoksal190/?hl=tr" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://github.com/SroxynArtz" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
-  <br><img src = "https://img.shields.io/github/followers/SroxynArtz?color=Green&label=Takip%C3%A7i&logo=Github%20takip%C3%A7isi&style=for-the-badge"></br>
+  <br><img src = "https://img.shields.io/github/followers/SroxynArtz?color=Green&label=Takip%C3%A7i&logo=Github%20takip%C3%A7isi&style=for-the-badge">
+<img src = "https://img.shields.io/github/stars/SroxynArtz?label=Y%C4%B1ld%C4%B1z&style=for-the-badge"></br>
 </p>
 
 <p align="center">
