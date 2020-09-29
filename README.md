@@ -1,4 +1,4 @@
-<h2 align="center">Selam Dostum Profilime Hoşgeldin 👋</h2>
+<h1 align="center">Selam Dostum Profilime Hoşgeldin 👋</h1>
 <p align="center">
   <a href="https://discord.com/users/442189531261829121" target"blank_"><img src="https://img.shields.io/badge/Discord%20Profilim%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
   <a href="https://open.spotify.com/user/21w4tnjfq4se3y3vr3gb2b6ri" target"blank_"><img src="https://img.shields.io/badge/Spotify%20Hesab%C4%B1m%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
