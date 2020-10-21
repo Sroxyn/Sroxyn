@@ -13,5 +13,5 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SroxynArtz&count_private=true&show_icons=true&theme=whitek&hide_border=true" width="%100" height="150px"
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SroxynArtz&layout=compact(https://github.com/anuraghazra/github-readme-stats)alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SroxynArtz&layout=compact
 </p>
