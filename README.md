@@ -1,6 +1,6 @@
 <h1 align="center">Selam Dostum Profilime Hoşgeldin 👋</h1>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SroxynArtz&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px"
+  <img src="https://github-readme-stats.vercel.app/api?username=Sroxyn&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px"
 </p>
 <h1 align="center">Bilgilerim</h1>
 <p align="center">
